@@ -17,7 +17,11 @@ Com base no contexto e premissas de negócios estabelecidas, possível avaliar a
 
 # Insights a partir das métricas
 1- Qual departamento mais popular entres os clientes, ajustando assim a estratégia de venda da loja em conformidade
+
 2- Com a média de preço com frte por Departamento é possível identificar os departamentos mais rentáveis e ajustar a precificação de produtos de acordo com a margem desejada
+
 3- Com a qtde de vendas por mês, é possível identificar sazonalidades para planejar campanhas de mkt e vendas para cada público-alvo
+
 4- Com a média de renda por canal de venda, é possível planejar campanhas de mkt e vendas para cada público-alvo
+
 5-Identificar perfis de consumidores e ajustar as vendas para melhor atender cada publico.
