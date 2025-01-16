@@ -1,6 +1,6 @@
 # biblioteca_pandas
 
-# O dataset de varejo em análise é comporto por informações de vendas de uma loja virtual que atual a nível nacional, vendendo produtos de diferentes departamentos e tuando em diferentes canais de vendas.
+# O dataset de varejo em análise é composto por informações de vendas de uma loja virtual que atual a nível nacional, vendendo produtos de diferentes departamentos e atuando em diferentes canais de vendas.
 
 # Premissas:
 Devido a um erro no sistema, algumas compras não possuem dados de UF. Para tal considerar estas compras como pertencentes ao estado do Mato Grosso do Sul (MS).
